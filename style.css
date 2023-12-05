@@ -92,18 +92,21 @@ menu .container{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
 }
 .navigace3{
     background-image: url(45153-alcoholic-bar-beverage-blur-338713-prev.jpg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
 }
 .navigace4{
     background-image: url(45152-JL_2-prev.jpg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
 }
 a.navigace{
     color: white;
